@@ -1,0 +1,9 @@
+student-table
+name- a,b,c,d,e
+age- 12,14,16,18,20
+
+select name, age from student where 
+name= "d" and age= 18; 
+
+upadate student set age=25 where age= 16; 
+
